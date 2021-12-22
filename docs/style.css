@@ -85,7 +85,7 @@ body{
     overflow: hidden;
     float: left;
     display: block;
-    padding: 50px 16px 50px 16px;
+    padding: 50px 16px;
     width: 20%;
     text-align: center;
     text-decoration: none;
@@ -147,7 +147,7 @@ body{
     background-color: antiquewhite;
     text-align: center;
     text-decoration: none;
-    padding: 70px 10px 20px 10px;
+    padding: 70px 10px 20px;
 }
 
 #NASA_Prediction,
@@ -165,7 +165,7 @@ body{
     background-color: antiquewhite;
     text-align: center;
     text-decoration: none;
-    padding: 70px 30px 20px 30px;
+    padding: 70px 30px 20px;
     margin-left: 30px;
 }
 
