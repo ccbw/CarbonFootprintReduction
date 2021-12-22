@@ -67,6 +67,7 @@ body{
 
 .statistics{
     background-color: aliceblue;
+    padding-top: 20px;
     position: relative;
     top: 150px;
     height: 300px;
